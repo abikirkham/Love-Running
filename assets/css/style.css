@@ -19,7 +19,9 @@ body {
 header {
     background-color: lightcoral;
 }
-
+h1 {
+    font-family: 'Montserrat', sans-serif;
+}
 main {
     background-color: lightblue;
     /* make main element take up surlus space to push footer */
